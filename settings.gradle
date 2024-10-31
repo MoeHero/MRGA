@@ -1,0 +1,2 @@
+rootProject.name = "Make RoamingX Great Again"
+include ':app'
